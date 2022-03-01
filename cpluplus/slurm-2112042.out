@@ -1,0 +1,190 @@
+We seem to be in the right place.
+~/fe-ddm-asm-parallel-cg/build ~/fe-ddm-asm-parallel-cg
+Doing Hmax = 1.5 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 1.4 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 1.3 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 1.2 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 1.1 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 1 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.9 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.8 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.7 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.6 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.5 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.4 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.3 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.2 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.19 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.18 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.17 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.16 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.15 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.14 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.13 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.12 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.11 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.1 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.095 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.09 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.085 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.08 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.075 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.07 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.065 
+Doing MPI CPUS = 4 
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+[33mWARNING:[0m seccomp requested but not enabled, seccomp library is missing or too old
+Doing Hmax = 0.06 
+slurmstepd: error: *** JOB 2112042 ON golub298 CANCELLED AT 2021-05-01T12:53:19 ***

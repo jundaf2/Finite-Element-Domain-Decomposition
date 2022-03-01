@@ -1,0 +1,17 @@
+find_library(GBENCH_LIBRARIES "benchmark")
+find_library(GBENCH_MAIN_LIBRARIES "benchmark_main")
+
+find_path(GBENCH_INCLUDE_DIR "benchmark/benchmark.h"
+	HINTS $ENV{GBENCH_ROOT}/include
+	${GBENCH_ROOT}/include
+)
+mark_as_advanced(GBENCH_INCLUDE_DIR)
+
+if(GBENCH_LIBRARIES AND GBENCH_MAIN_LIBRARIES)
+	set(GBENCH_FOUND "TRUE")
+	set(GBENCH_BOTH_LIBRARIES ${GBENCH_LIBRARIES} ${GBENCH_MAIN_LIBRARIES})
+	set(GBENCH_INCLUDE_DIRS ${GBENCH_INCLUDE_DIR})
+	#message("GBENCH: ${GBENCH_LIBRARY} ${GBENCH_LIBRARY_MAIN}")
+else()
+	message("GBENCH: Not Found")
+endif()
