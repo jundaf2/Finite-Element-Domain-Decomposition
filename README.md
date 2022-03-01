@@ -7,10 +7,10 @@ High performance computing technologies provide faster and larger electromagneti
 scale-up. The former can be achieved by using multiprocessing, while the latter is by using domain decomposition. The DDM we choose to implement is Additive Schwarz Method based on MPI. The linear system solver we choose is Conjugated Gradient Method using OpenMP. A Matlab version and a serial C++ version are built for verification purpose and a parallel C++ version is implemented to demonstrate the power of parallel numerical algorithms and the compute capability of nowadays parallel machines. Results for both the physical simulation itself and the benchmarking study are shown and analysis in detail.
 
 ## Matlab for algorithm verification
-The user can directly run the Matlab version with the source code `/matlab project/srcs/Main_Pre_Post_Processing.m`. For the details of the theory related to the math and physics, please refer to `Matlab Verification.pdf`.
+The user can directly run the Matlab version with the source code `/matlab/srcs/Main_Pre_Post_Processing.m`. For the details of the theory related to the math and physics, please refer to `Matlab Verification.pdf`.
 
 ## Serial and Parallel C++ versions
-The source code of the C++ version is in the `\cplusplus project` folder. Please refer to `C++ Benchmarking.pdf` for more details related to the C++ implementatin and parallel benchmarking.
+The source code of the C++ version is in the `\cplusplus` folder. Please refer to `C++ Benchmarking.pdf` for more details related to the C++ implementatin and parallel benchmarking.
 
 ### Building the cpp source code
 
